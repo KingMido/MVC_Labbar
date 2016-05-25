@@ -9,9 +9,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_2_1", "Lab_2_1\Lab_2_1.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_4_1", "Lab_4_1\Lab_4_1.csproj", "{1B26CFDB-4082-496E-B0F7-331DDE4174C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_2_2", "..\..\..\Uppgifter\Lab 2\MVC-Labs.02\Lab2.2\Lab_2_2.csproj", "{75DCEB16-6391-4468-8C30-2E2711B38EFD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_2_2", "Lab2.2\Lab_2_2.csproj", "{75DCEB16-6391-4468-8C30-2E2711B38EFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_4_2", "..\..\..\Uppgifter\Lab 2\MVC-Labs.02\Lab4.2\Lab_4_2.csproj", "{E5AFDCB3-A3C4-4B27-B240-18CF8281B62C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_4_2", "Lab4.2\Lab_4_2.csproj", "{E5AFDCB3-A3C4-4B27-B240-18CF8281B62C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
