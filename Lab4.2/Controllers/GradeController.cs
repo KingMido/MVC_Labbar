@@ -16,7 +16,7 @@ namespace Lab_4_2.Controllers
         }
         public PartialViewResult _GradeForStudent(int id)
         {
-            List<Grade> grades=((Student)Session["Student"]).Grades;
+            List<Grade> grades = ((Student)Session["Student"]).Grades;
             return PartialView(grades);
         }
         public PartialViewResult _Create(int id)
